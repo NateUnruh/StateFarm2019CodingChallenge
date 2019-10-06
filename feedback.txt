@@ -1,9 +1,11 @@
 Your team (name of each individual participating):
+Nate Unruh
 How many JUnits were you able to get to pass? 
-
+All
 Document and describe any enhancements included to help the judges properly grade your submission.
-	Step 1:
-	Step 2: 
+	Step 1: N/A
+	Step 2: N/A
 	
 	
 Feedback for the coding competition?  Things you would like to see in future events?
+Hard to find a partner for a competition on a Saturday night, would have liked if it was earlier in the day.
